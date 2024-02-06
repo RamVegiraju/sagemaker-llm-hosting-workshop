@@ -7,6 +7,8 @@ For this lab we will be working on [SageMaker Studio](https://docs.aws.amazon.co
   - S3: Reading and writing data from S3.
   - ECR: Pulling the AWS managed Docker images for inference.
 
+If you would like to locally test it's recommended to use an environment with Docker installed.
+
 ## Content
 
 - [PyTorch Traditional Model Deployment](https://github.com/RamVegiraju/sagemaker-llm-hosting-workshop/tree/master/traditional-model-deployment): In this section we focus on deploying a traditional pre-trained PyTorch Model to SageMaker Real-Time Inference.
